@@ -1,7 +1,5 @@
 # Introduction
-This project comprises the map front-end to the AIHW Indigenous Health Dashboard.
-
-It allows the user to view and select regions and Indigenous Communities, before opening the Dashboard showing the selected region.
+Boilerplate app using React and the [ArcGIS Server WebPack plugin](https://github.com/Esri/arcgis-webpack-plugin).
 
 ## Usage
 
